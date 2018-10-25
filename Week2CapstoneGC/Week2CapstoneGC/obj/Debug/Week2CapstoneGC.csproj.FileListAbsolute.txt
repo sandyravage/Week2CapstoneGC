@@ -1,0 +1,7 @@
+C:\Users\TEVERTS\source\repos\Week2CapstoneGC\Week2CapstoneGC\bin\Debug\Week2CapstoneGC.exe.config
+C:\Users\TEVERTS\source\repos\Week2CapstoneGC\Week2CapstoneGC\bin\Debug\Week2CapstoneGC.exe
+C:\Users\TEVERTS\source\repos\Week2CapstoneGC\Week2CapstoneGC\bin\Debug\Week2CapstoneGC.pdb
+C:\Users\TEVERTS\source\repos\Week2CapstoneGC\Week2CapstoneGC\obj\Debug\Week2CapstoneGC.csprojAssemblyReference.cache
+C:\Users\TEVERTS\source\repos\Week2CapstoneGC\Week2CapstoneGC\obj\Debug\Week2CapstoneGC.csproj.CoreCompileInputs.cache
+C:\Users\TEVERTS\source\repos\Week2CapstoneGC\Week2CapstoneGC\obj\Debug\Week2CapstoneGC.exe
+C:\Users\TEVERTS\source\repos\Week2CapstoneGC\Week2CapstoneGC\obj\Debug\Week2CapstoneGC.pdb
